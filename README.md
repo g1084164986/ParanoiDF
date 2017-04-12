@@ -34,7 +34,7 @@ Dependancies
 	- Java (Stanford parser is written in Java) needed (apt-get install default-jre)
 * To support XML output "lxml" is needed:
    - http://lxml.de/installation.html
-* Included modules: lzw, colorama, jsbeautifier, ccitt, pythonaes (Thanks to all the developers!!)
+* Included modules: lzw, colorama, jsbeautifier, BeautifulSoup4, pythonaes (Thanks to all the developers!!)
 
 Installation
 -----------
