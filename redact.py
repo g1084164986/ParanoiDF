@@ -50,9 +50,9 @@ import re
 import difflib
 import os
 import json
-import Image
-import ImageDraw
-import ImageFont 
+import PIL.Image
+import PIL.ImageDraw
+import PIL.ImageFont
 import operator
 	
 def main(wordType, letterCase):
